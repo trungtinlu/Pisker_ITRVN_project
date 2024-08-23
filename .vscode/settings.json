@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "button_system.h": "c",
+    "drv_timer.h": "c",
+    "clang-format.executable": "c:\\Program Files\\LLVM\\bin\\clang-format.exe"
+  }
+}
